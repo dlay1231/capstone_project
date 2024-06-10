@@ -1,0 +1,7 @@
+,Anger,Anxiety,Boredom,Happiness,Neutral,Sadness
+Anger,9,0,0,0,0,0
+Anxiety,0,20,1,1,0,0
+Boredom,0,0,15,0,0,1
+Happiness,0,0,0,14,0,0
+Neutral,0,0,0,0,28,0
+Sadness,1,0,1,0,0,12
